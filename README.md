@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ADYASHA%20PRIYADARSHINI&fontSize=42&fontColor=00f5ff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Full%20Stack%20Dev%20%E2%80%A2%20AI%20Explorer&descAlignY=58&descSize=16&descColor=b388ff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ADYASHA%20PRIYADARSHINI&fontSize=42&fontColor=00f5ff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Ethical%20Hacking%20Explorer&descAlignY=58&descSize=16&descColor=b388ff)
 
 </div>
 
@@ -186,6 +186,8 @@ print(adyasha)
 <div align="center">
 
 ![snake animation](https://raw.githubusercontent.com/Adyasha20/Adyasha20/output/github-contribution-grid-snake-dark.svg)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adyasha20&theme=react-dark&hide_border=true&bg_color=0f0c29&color=00f5ff&line=b388ff&point=00f5ff&area=true&area_color=b388ff)
 
 </div>
 
