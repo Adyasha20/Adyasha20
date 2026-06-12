@@ -2,6 +2,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ADYASHA%20PRIYADARSHINI&fontSize=42&fontColor=00f5ff&fontAlignY=38&desc=Cybersecurity%20Engineer%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%20Ethical%20Hacking%20Explorer&descAlignY=58&descSize=16&descColor=b388ff)
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Adyasha+%F0%9F%91%8B;Cybersecurity+Engineer+in+Making;Software+Developer+%7C+Backend+Dev;Ethical+Hacker+Explorer+%F0%9F%94%90;Always+Learning%2C+Always+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</div>
+
 </div>
 
 ---
