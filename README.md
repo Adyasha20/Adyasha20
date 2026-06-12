@@ -28,6 +28,8 @@
 
 ## > whoami
 
+<img align="right" alt="Hacking GIF" width="360" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 ```python
 name         : Adyasha Priyadarshini
 alias        : Adyasha20
@@ -38,11 +40,13 @@ year         : Third Year (2023–Present)
 focus:
   - Cybersecurity & Secure Software Development
   - Cryptography & Network Security
-  - Full Stack Development (Java + Django)
-  - AI / Machine Learning Integration
+  - Backend Development (Java + Django)
+  - Ethical Hacking & Penetration Testing
 goal         : Cybersecurity Engineer + Secure Systems Developer
 status       : 🟢 Seeking Internships
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -71,6 +75,14 @@ status       : 🟢 Seeking Internships
 ![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/INTELLIJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+#### ◆ SKILL ICONS
+
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,js,django,mysql,git,github,vscode,linux&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
