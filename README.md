@@ -195,7 +195,6 @@ print(adyasha)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adyasha20&theme=tokyonight&hide_border=true&background=0f0c29&stroke=00f5ff&ring=b388ff&fire=00f5ff&currStreakLabel=00f5ff)
 
-![Contribution Calendar](https://github-readme-activity-graph.vercel.app/graph?username=Adyasha20&bg_color=0d1117&color=00f5ff&line=00f5ff&point=ffffff&area=true&area_color=006400&hide_border=true)
 
 </div>
 
