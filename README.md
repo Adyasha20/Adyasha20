@@ -195,7 +195,7 @@ print(adyasha)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adyasha20&theme=tokyonight&hide_border=true&background=0f0c29&stroke=00f5ff&ring=b388ff&fire=00f5ff&currStreakLabel=00f5ff)
 
-![Contribution Calendar](https://ghchart.rshah.org/00f5ff/Adyasha20)
+![Contribution Calendar](https://ghchart.rshah.org/Adyasha20)
 
 </div>
 
