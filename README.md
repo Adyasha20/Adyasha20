@@ -28,7 +28,7 @@
 
 ## > whoami
 
-<img align="right" alt="Hacking GIF" width="360" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"/>
+<img align="right" alt="Hacking GIF" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
 ```python
 name         : Adyasha Priyadarshini
