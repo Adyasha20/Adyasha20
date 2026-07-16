@@ -142,7 +142,7 @@ status       : 🟢 Seeking Internships
 | 🎓 | Accenture iAspire | Program Completion | 2024 |
 | 📊 | Introduction to Data Science | Cisco Certified | 2024 |
 | ☁️ | Google Cloud Agentic AI | Hackathon Participant | 2025 |
-| 🎓 | SOA University | CGPA 8.11 / 10.0 | Ongoing |
+| 🎓 | SOA University | CGPA 8.35 / 10.0 | Ongoing |
 
 ---
 
