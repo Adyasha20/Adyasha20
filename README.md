@@ -41,7 +41,7 @@ name         : Adyasha Priyadarshini
 alias        : Adyasha20
 location     : Bhubaneswar, Odisha, India
 university   : ITER, SOA University — B.Tech CSE (Cybersecurity)
-cgpa         : 8.11 / 10.0
+cgpa         : 8.35 / 10.0
 year         : Third Year (2023–Present)
 focus:
   - Cybersecurity & Secure Software Development
@@ -153,7 +153,7 @@ class AdyashaPriyadarshini:
     def __init__(self):
         self.name       = "Adyasha Priyadarshini"
         self.university = "SOA University, Bhubaneswar"
-        self.cgpa       = 8.11
+        self.cgpa       = 8.35
 
     @property
     def currently_building(self):
